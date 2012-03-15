@@ -1,0 +1,36 @@
+C:\Users\vost3550\Desktop\Derrick\kinect fun\kinect fun\bin\Release\kinect fun.exe
+C:\Users\vost3550\Desktop\Derrick\kinect fun\kinect fun\bin\Release\kinect fun.pdb
+C:\Users\vost3550\Desktop\Derrick\kinect fun\kinect fun\bin\Release\Coding4Fun.Kinect.Wpf.dll
+C:\Users\vost3550\Desktop\Derrick\kinect fun\kinect fun\bin\Release\Microsoft.Expression.Drawing.dll
+C:\Users\vost3550\Desktop\Derrick\kinect fun\kinect fun\bin\Release\Microsoft.Samples.Kinect.WpfViewers.dll
+C:\Users\vost3550\Desktop\Derrick\kinect fun\kinect fun\bin\Release\Microsoft.Samples.Kinect.WpfViewers.pdb
+C:\Users\vost3550\Desktop\Derrick\kinect fun\kinect fun\bin\Release\Coding4Fun.Kinect.Wpf.pdb
+C:\Users\vost3550\Desktop\Derrick\kinect fun\kinect fun\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\vost3550\Desktop\Derrick\kinect fun\kinect fun\obj\x86\Release\MainWindow.baml
+C:\Users\vost3550\Desktop\Derrick\kinect fun\kinect fun\obj\x86\Release\MainWindow.g.cs
+C:\Users\vost3550\Desktop\Derrick\kinect fun\kinect fun\obj\x86\Release\App.g.cs
+C:\Users\vost3550\Desktop\Derrick\kinect fun\kinect fun\obj\x86\Release\kinect fun_MarkupCompile.cache
+C:\Users\vost3550\Desktop\Derrick\kinect fun\kinect fun\obj\x86\Release\kinect fun.g.resources
+C:\Users\vost3550\Desktop\Derrick\kinect fun\kinect fun\obj\x86\Release\kinect_fun.Properties.Resources.resources
+C:\Users\vost3550\Desktop\Derrick\kinect fun\kinect fun\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\vost3550\Desktop\Derrick\kinect fun\kinect fun\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\vost3550\Desktop\Derrick\kinect fun\kinect fun\obj\x86\Release\kinect fun.exe
+C:\Users\vost3550\Desktop\Derrick\kinect fun\kinect fun\obj\x86\Release\kinect fun.pdb
+C:\Users\vost3550\Desktop\Derrick\kinect fun\kinect fun\obj\x86\Release\kinect fun_Content.g.cs
+C:\Users\vost3550\Documents\Visual Studio 2010\Projects\kinect fun\kinect fun\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\vost3550\Documents\Visual Studio 2010\Projects\kinect fun\kinect fun\obj\x86\Release\App.g.cs
+C:\Users\vost3550\Documents\Visual Studio 2010\Projects\kinect fun\kinect fun\obj\x86\Release\kinect fun_Content.g.cs
+C:\Users\vost3550\Documents\Visual Studio 2010\Projects\kinect fun\kinect fun\obj\x86\Release\kinect fun_MarkupCompile.cache
+C:\Users\vost3550\Documents\Visual Studio 2010\Projects\kinect fun\kinect fun\obj\x86\Release\kinect fun.exe
+C:\Users\vost3550\Documents\Visual Studio 2010\Projects\kinect fun\kinect fun\bin\Release\kinect fun.exe
+C:\Users\vost3550\Documents\Visual Studio 2010\Projects\kinect fun\kinect fun\bin\Release\kinect fun.pdb
+C:\Users\vost3550\Documents\Visual Studio 2010\Projects\kinect fun\kinect fun\bin\Release\Microsoft.Samples.Kinect.WpfViewers.dll
+C:\Users\vost3550\Documents\Visual Studio 2010\Projects\kinect fun\kinect fun\bin\Release\Coding4Fun.Kinect.Wpf.pdb
+C:\Users\vost3550\Documents\Visual Studio 2010\Projects\kinect fun\kinect fun\bin\Release\Microsoft.Samples.Kinect.WpfViewers.pdb
+C:\Users\vost3550\Documents\Visual Studio 2010\Projects\kinect fun\kinect fun\obj\x86\Release\MainWindow.baml
+C:\Users\vost3550\Documents\Visual Studio 2010\Projects\kinect fun\kinect fun\obj\x86\Release\MainWindow.g.cs
+C:\Users\vost3550\Documents\Visual Studio 2010\Projects\kinect fun\kinect fun\obj\x86\Release\kinect fun.g.resources
+C:\Users\vost3550\Documents\Visual Studio 2010\Projects\kinect fun\kinect fun\obj\x86\Release\kinect_fun.Properties.Resources.resources
+C:\Users\vost3550\Documents\Visual Studio 2010\Projects\kinect fun\kinect fun\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\vost3550\Documents\Visual Studio 2010\Projects\kinect fun\kinect fun\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\vost3550\Documents\Visual Studio 2010\Projects\kinect fun\kinect fun\obj\x86\Release\kinect fun.pdb
