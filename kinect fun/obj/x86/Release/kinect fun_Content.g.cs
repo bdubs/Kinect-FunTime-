@@ -8,6 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("53576_newgrounds_guitar.mp3")]
 [assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("nyan_cat.mp3")]
 
 
